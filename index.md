@@ -23,7 +23,7 @@ I am PhD candidate in Political Science & Social Data Analytics at the Pennsylva
 
         <div class="span2">
             <img src="../assets/headshot.jpg"
-                  title="Ishita Gopal" alt="Ishita Gopal"/></a>
+                  title="Ishita Gopal" alt="Ishita Gopal"/>
         </div>
     </div>
 </div>
