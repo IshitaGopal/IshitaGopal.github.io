@@ -16,13 +16,13 @@ Abstrct: A lot of attention has been paid to studying the online activity of the
 
 <hr>
 
-<u><b>Ishita Gopal</b> and Bruce Desmarais. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network.”</u>
+<u><b>Ishita Gopal</b> and Bruce Desmarais. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network.”</u> <br/>
 
 Abstract: The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations. 
 
 <hr>
 
-#### Under Review 
+<h4> Under Review </h4>
 
 <!--  ##### <u>“Modeling State Legislator Networks on Twitter”</u>
 
