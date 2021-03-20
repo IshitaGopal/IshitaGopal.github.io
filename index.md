@@ -20,7 +20,7 @@ Prior to starting my Ph.D., I worked as an economist in the enrgy and enviroment
 
     <div class="row-fluid">
         <div class="span5">
-            Email: iug96[at]psu.edu<br/>
+            Email: iug96[at]psu.edu jsijsihiuhliuhln iuh liuhn liuhnloiulhnl iuhn liuhn liuhn liuhliuhliuhliouhliuhluhliuhliuhliuhlkuhlkuhliuiuiuiuiuoiu noiuio..upoifgiu.<br/>
         </div>
 
         <div class="span2">
