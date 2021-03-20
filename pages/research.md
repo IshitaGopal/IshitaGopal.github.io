@@ -5,21 +5,15 @@ description: Ishita's research
 ---
 
 
-
-<div class="container">
-<h5><a name="paper"></a>E. W. (1968). Go to statement considered harmful. Communications of the ACM, 11(3), 147-148.</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Abstract: In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate<br/>
-        </div>
-
-        <div class="span2">
-            <img src="../assets/headshot.jpg"
-                  title="Ishita Gopal" alt="Ishita Gopal"/>
-        </div>
-    </div>
+<div class="row">
+  <div class="column">
+    <img src="../assets/headshot.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    This is some text 
+  </div>
 </div>
+
 
 
 
