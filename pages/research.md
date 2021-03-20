@@ -29,7 +29,7 @@ description: Ishita's research
 <u>Kevin Munger, <span style="color:SteelBlue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”</u> (R&R at Research & Politics)<br/>
 <a href="https://osf.io/9ftxc/"> [Paper] </a> <br/> <br/>
     
-<u>Taegyoon Kim, Nitheesha Nakka, <span style="color:SteelBlue">Ishita Gopal</span>, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2020. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”</u> <br/> <br/>
+<u>Taegyoon Kim, Nitheesha Nakka, <span style="color:SteelBlue">Ishita Gopal</span>, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2021. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”</u> <br/> <br/>
 
 
 <u><span style="color:SteelBlue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.”</u> <br/> <br/>
