@@ -7,7 +7,7 @@ description: Ishita's research
 
 
 <div class="container">
-<h4><a name="contact"></a>“Modeling State Legislator Networks on Twitter”</u></h4>
+<h4><a name="contact"></a>“Modeling State Legislator Networks on Twitter”</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -17,7 +17,7 @@ description: Ishita's research
         <div class="span2">
             <img src="../pages/research_img/follower_net.png"
                  alt="follower"
-                 style="width:50%"/>
+                 style="width:200%"/>
         </div>
     </div>
 </div>
