@@ -18,12 +18,10 @@ I am PhD candidate in Political Science & Social Data Analytics at the Pennsylva
 
     <div class="row-fluid">
         <div class="span5">
-            Ishita Gopal<br/>
             Email: iug96[at]psu.edu<br/>
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Ishita Gopal" alt="Ishita Gopal"/></a>
         </div>
