@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Ishita Gopal
+description: Ishita Gopal is a PhD candidate at PSU. 
+#keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am PhD candidate in Political Science & Social Data Analytics at the Pennsylvania State University. I apply causal inference, machine learning and network analysis methods to study digital media and political activism. Substantively, I focus on how different types of information shape the political choices of citizens and elites in the domain of dissent-repression, online cummunication and public policy decisions. Prior to starting my Ph.D., I worked as an economist in the enrgy and enviroment domain in India. I also have a Master's in Economics from the University of Warwick. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,14 +18,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Ishita Gopal<br/>
+            Email: iug96[at]psu.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Ishita Gopal" alt="Ishita Gopal"/></a>
         </div>
     </div>
 </div>
@@ -33,9 +33,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/IshitaGopal">GitHub</a></li>
+          <li><a href="https://twitter.com/izzigopal">Twitter </a></li>
       </ul>
   </div>
 </div>
