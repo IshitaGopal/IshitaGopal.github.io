@@ -5,7 +5,7 @@ description: Ishita Gopal is a PhD candidate at PSU.
 #keywords: CSS
 ---
 
-I am PhD candidate in <u>Political Science & Social Data Analytics</u> at the <u>Pennsylvania State University</u>. I am interested in applying computational social science methods to study questions around digital media and political activism. Substantively, I focus on how different types of information shape the political choices of citizens and elites in the domain of dissent-repression, online communication and public policy decisions. Methodologically, I have use causal inference, machine learning and network analysis in my work. 
+I am a PhD candidate in <u>Political Science & Social Data Analytics</u> at the <u>Pennsylvania State University</u>. I am interested in applying computational social science methods to study questions around digital media and political activism. Substantively, I focus on how different types of information shape the political choices of citizens and elites in the domain of dissent-repression, online communication and public policy decisions. Methodologically, I have use causal inference, machine learning and network analysis in my work. 
 
 Prior to starting my Ph.D., I worked as an economist in the energy and enviroment domain in India. I also have a Master's in Economics from the University of Warwick. 
 
