@@ -1,28 +1,15 @@
 ---
 layout: page
-title: Research
+title: Working Papers 
 description: Ishita's research
 ---
 
 
-<div class="row">
-  <div class="column">
-    <img src="../assets/headshot.jpg" alt="Snow">
-  </div>
-  <div class="column">
-    This is some text 
-  </div>
-</div>
+##### <u>“Modeling State Legislator Networks on Twitter”</u>
+A lot of attention has been paid to studying the online activity of the members of the United States congress. This scrutiny has not been extended to state legislators. Very few studies exist which catalogue why state legislators connect and communicate with one another online in the ways they do. Inspired by this question and building on studies which have analysed online communication of members of the national legislatures, this paper aims to systematically analyse state legislator relationships in the online environment. We collect original data for 4000+ legislators and study patterns of connection and communication of state legislators on Twitter. The results from this study will help better understand what motivates tie formation in the online environment and if these patterns of connection conform to or can predict offline relationships. We test the impact of variables such as party affiliation, state, chamber, cohort, gender, and policy area focus in the organisation of these online networks. We look at three main types of networks that can arise due to participation on Twitter - follower, retweets and mentions. We also aggregate the ties to infer dynamics between states.
 
-
-
-
-
-#### <u>The effects of increased eye contact on feeding portions</u>
-<a id="1"></a> 
-, E. W. (1968). Go to statement considered harmful. Communications of the ACM, 11(3), 147-148.
-
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+<img src="../assets/headshot.jpg"
+                  title="Ishita Gopal" alt="Ishita Gopal"/>
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
 
