@@ -14,7 +14,7 @@ Abstrct: A lot of attention has been paid to studying the online activity of the
 <img src="../pages/research_img/mentions_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="../pages/research_img/rt_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
-Cross state legislator followers, metions and retweets network 
+*Cross state legislator followers, metions and retweets network*
 
 ----
 
