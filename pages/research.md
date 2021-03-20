@@ -27,6 +27,14 @@ Abstrct: A lot of attention has been paid to studying the online activity of the
 
 Abstrct: The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations. <br/>
 
+#### Under Review 
+
+*Kevin Munger, <span style="color:blue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Acces- sibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”* (R&R at Research & Politics)
+[[Paper]](https://osf.io/9ftxc/) <br/>
+
+*Taegyoon Kim, Nitheesha Nakka, <span style="color:blue">Ishita Gopal</span>, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2020. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”* <br/>
+
+*<span style="color:blue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.”*
 
 <!--  ##### <u>“Modeling State Legislator Networks on Twitter”</u>
 
@@ -44,11 +52,3 @@ To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
 
-#### Under Review 
-
-*Kevin Munger, <span style="color:blue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Acces- sibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”* (R&R at Research & Politics)
-[[Paper]](https://osf.io/9ftxc/) <br/>
-
-*Taegyoon Kim, Nitheesha Nakka, <span style="color:blue">Ishita Gopal</span>, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2020. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”* <br/>
-
-*<span style="color:blue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.”*
