@@ -5,7 +5,9 @@ description: Ishita Gopal is a PhD candidate at PSU.
 #keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-I am PhD candidate in Political Science & Social Data Analytics at the Pennsylvania State University. I apply causal inference, machine learning and network analysis methods to study digital media and political activism. Substantively, I focus on how different types of information shape the political choices of citizens and elites in the domain of dissent-repression, online cummunication and public policy decisions. Prior to starting my Ph.D., I worked as an economist in the enrgy and enviroment domain in India. I also have a Master's in Economics from the University of Warwick. 
+I am PhD candidate in Political Science & Social Data Analytics at the Pennsylvania State University. I apply causal inference, machine learning and network analysis methods to study digital media and political activism. Substantively, I focus on how different types of information shape the political choices of citizens and elites in the domain of dissent-repression, online cummunication and public policy decisions. 
+
+Prior to starting my Ph.D., I worked as an economist in the enrgy and enviroment domain in India. I also have a Master's in Economics from the University of Warwick. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
