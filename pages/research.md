@@ -24,13 +24,13 @@ Abstract: The aim of our study is to test how and if cross-state legislator leve
 
 <h4> Under Review </h4>
 
-<u>Kevin Munger, <span style="color:blue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Acces- sibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”</u> (R&R at Research & Politics)<br/>
+<u>Kevin Munger, <span style="color:DeepSkyBlue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Acces- sibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”</u> (R&R at Research & Politics)<br/>
 <a href="https://osf.io/9ftxc/"> [Paper] </a> <br/> <br/>
     
 <u>Taegyoon Kim, Nitheesha Nakka, <span style="color:blue">Ishita Gopal</span>, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2020. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”</u> <br/> <br/>
 
 
-<u><span style="color:blue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.”</u> <br/> <br/>
+<u><span style="color:DeepSkyBlue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.”</u> <br/> <br/>
 
     
     
