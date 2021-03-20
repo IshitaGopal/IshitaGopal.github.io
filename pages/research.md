@@ -15,7 +15,7 @@ description: Ishita's research
         </div>
 
         <div class="span2">
-            <img src="../pages/research_img/follower_net.png.jpg"
+            <img src="../pages/research_img/follower_net.png"
                  alt="follower"
                  style="width:50%"/>
         </div>
