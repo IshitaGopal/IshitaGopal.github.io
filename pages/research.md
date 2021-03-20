@@ -49,7 +49,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 #### Under Review 
 
 Kevin Munger, Ishita Gopal, Jonathan Nagler, and Joshua Tucker. 2020. “Acces- sibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?” (R&R at Research & Politics)
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+[[Paper]](https://osf.io/9ftxc/)
 
 Taegyoon Kim, Nitheesha Nakka, Ishita Gopal, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2020. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators” (Under Review)
 
