@@ -13,7 +13,7 @@ description: Ishita's research
 <img src="../pages/research_img/rt_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;"> <br/>
     
-<i>Cross state legislators networks - followers, mentions, retweets </i>
+<i>Cross state legislator networks - followers, mentions, retweets </i>
     
 
 <hr>
