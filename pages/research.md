@@ -7,7 +7,7 @@ description: Ishita's research
 
 <div class="row">
   <div class="column">
-    <img src="../assets/headshot.jpg" alt="Snow" style="width:100%">
+    <img src="../assets/headshot.jpg" alt="Snow">
   </div>
   <div class="column">
     This is some text 
