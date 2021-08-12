@@ -33,7 +33,7 @@ description: Ishita's research
 
 <h4> Published </h4>
 
-<u>Kevin Munger, <span style="color:SteelBlue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”</u> (R&R at Research & Politics)<br/>
+<u>Kevin Munger, <span style="color:SteelBlue">Ishita Gopal</span>, Jonathan Nagler, and Joshua Tucker. 2020. “Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?”</u> (Research & Politics)<br/>
 <a href="https://osf.io/9ftxc/"> [Paper] </a> <br/> <br/>
   
     
